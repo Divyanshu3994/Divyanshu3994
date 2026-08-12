@@ -48,7 +48,7 @@
 │ 💻 Languages   :: Java • JavaScript • Python • C • SQL      │
 │ 🎨 Frontend    :: React • HTML • CSS • Tailwind CSS        |
 │ ⚙ Backend      :: Node.js • Express.js • Spring Boot      |
-│ 🗄 Database    :: MongoDB • MySQL                           |
+│ 🗄 Database     :: MongoDB • MySQL                           |
 │ 🔧 Tools       :: Git • GitHub • VS Code • Postman          │
 ├──────────────────────────────────────────────────────────────┤
 │ 🌸 Open Source :: GSSoC'26 Contributor                      |
