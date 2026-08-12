@@ -1,78 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Divyanshu&fontSize=65&fontColor=58a6ff&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Open%20Source%20Contributor%20|%20Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:001a00,100:00ff41&text=ＤＩＶＹＡＮＳＨＵ&fontColor=00ff41&fontSize=70&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Contributor%20|%20Java%20Developer&descColor=8BFF9F&descSize=18&descAlignY=62"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%B8;GSSoC+'26+Top+4%25+Contributor;Building+Real+World+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;Divyanshu;Full+Stack+Developer;Open+Source+Contributor;Spring+Boot+Learner;Always+Building+Cool+Things...)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39FF14&size=18&center=true&width=650&lines=Loading+Portfolio...;Connecting+to+GitHub...;Access+Granted+✔;Welcome+to+my+Profile."/>
 
 <br>
 
 <a href="https://github.com/Divyanshu3994">
-<img src="https://komarev.com/ghpvc/?username=Divyanshu3994&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Divyanshu3994&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Divyanshu3994">
-<img src="https://img.shields.io/github/followers/Divyanshu3994?logo=github&style=for-the-badge&color=58a6ff"/>
+<img src="https://img.shields.io/github/followers/Divyanshu3994?style=for-the-badge&logo=github&color=00ff41"/>
 </a>
 
 <a href="https://www.linkedin.com/in/divyanshu748/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00A0DC?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://my-protfolio-three-ebon.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://gssoc.girlscript.org/profile/c7cd96b5-1465-4798-a443-2ffac46cc1e4">
-<img src="https://img.shields.io/badge/GSSoC'26-Contributor-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💀 root@divyanshu:~$ whoami
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
-```java
-public class Divyanshu {
-
-    String role = "Java Backend Developer";
-    String college = "Sir MVIT, Bangalore";
-    String branch = "Information Science & Engineering";
-
-    String[] languages = {
-        "Java",
-        "Python",
-        "C",
-        "SQL",
-        "JavaScript"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "Full Stack Development",
-        "Open Source",
-        "Problem Solving"
-    };
-
-    String[] currentFocus = {
-        "Spring Boot",
-        "DSA",
-        "System Design",
-        "Cloud"
-    };
-
-    public void sayHi() {
-        System.out.println(
-            "Thanks for visiting my profile 🚀"
-        );
-    }
-}
+```console
+┌──────────────────────────────────────────────────────┐
+│               root@divyanshu                         │
+├──────────────────────────────────────────────────────┤
+│ Name        : Divyanshu                              │
+│ Role        : Full Stack Developer                   │
+│ College     : Sir M. Visvesvaraya Institute          │
+│ Branch      : Information Science & Engineering      │
+│ Location    : Bengaluru, India 🇮🇳                   │
+│                                                    │
+│ Languages   : Java • JavaScript • Python • C • SQL │
+│ Frontend    : React • HTML • CSS • Tailwind CSS    │
+│ Backend     : Node.js • Express • Spring Boot      │
+│ Database    : MongoDB • MySQL                      │
+│ Open Source : GSSoC'26 Contributor                 │
+│                                                    │
+│ Current     : Building Real-World Projects 🚀      │
+│ Status      : ONLINE 🟢                            │
+└──────────────────────────────────────────────────────┘
 ```
 
 <br clear="right"/>
 
+---
+
+## ⚡ Boot Sequence
+
+```text
+> Initializing Portfolio...
+
+██████████████████████████████████ 100%
+
+✔ Loading Java.................SUCCESS
+
+✔ Loading React................SUCCESS
+
+✔ Loading Spring Boot..........SUCCESS
+
+✔ Connecting GitHub............SUCCESS
+
+✔ Syncing Open Source..........SUCCESS
+
+✔ Access Granted...............WELCOME
+```
+
+---
+
+## 📡 SYSTEM STATUS
+
+```text
+┌──────────────────────────────────────────────┐
+│ OS          : Windows 11                     │
+│ Shell       : PowerShell                     │
+│ IDE         : VS Code                        │
+│ CPU         : Coffee Powered ☕              │
+│ Java        : ███████████████████ 95%        │
+│ React       : ████████████████░░ 85%         │
+│ Spring Boot : ██████████████░░░░ 75%         │
+│ SQL         : █████████████████░ 90%         │
+│ Git         : ████████████████░░ 88%         │
+│ Open Source : ██████████████████ 95%         │
+└──────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="180"/>
+
+### 💚 `while(alive){ eat(); code(); learn(); repeat(); }`
+
+</div>
+
+---
+
+```text
+01001000 01100001 01100011 01101011
+01000101 01110010 00100000 01001101
+01101111 01100100 01100101 00100000
+01000001 01100011 01110100 01101001
+01110110 01100101
+```
 ---
 
 # 🚀 Current Focus
