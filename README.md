@@ -111,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/cyberpunk.gif" width="180"/>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250"/>
 
 ### 💚 `while(alive){ eat(); code(); learn(); repeat(); }`
 
