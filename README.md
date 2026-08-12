@@ -30,30 +30,45 @@
 
 # 💀 root@divyanshu:~$ whoami
 
-<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<table>
+<tr>
 
-```console
-┌──────────────────────────────────────────────────────┐
-│               root@divyanshu                         │
-├──────────────────────────────────────────────────────┤
-│ Name        : Divyanshu                              │
-│ Role        : Full Stack Developer                   │
-│ College     : Sir M. Visvesvaraya Institute          │
-│ Branch      : Information Science & Engineering      │
-│ Location    : Bengaluru, India 🇮🇳                   │
-│                                                    │
-│ Languages   : Java • JavaScript • Python • C • SQL │
-│ Frontend    : React • HTML • CSS • Tailwind CSS    │
-│ Backend     : Node.js • Express • Spring Boot      │
-│ Database    : MongoDB • MySQL                      │
-│ Open Source : GSSoC'26 Contributor                 │
-│                                                    │
-│ Current     : Building Real-World Projects 🚀      │
-│ Status      : ONLINE 🟢                            │
-└──────────────────────────────────────────────────────┘
+<td width="58%" valign="top">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                  SYSTEM INFORMATION                          │
+├──────────────────────────────────────────────────────────────┤
+│ 👤 User        :: Divyanshu                                 │
+│ 💼 Role        :: Full Stack Developer                      |
+│ 🎓 College     :: Sir M. Visvesvaraya Institute of Technology│
+│ 📚 Branch      :: Information Science & Engineering         │
+│ 📍 Location    :: Bengaluru, India 🇮🇳                      │
+├──────────────────────────────────────────────────────────────┤
+│ 💻 Languages   :: Java • JavaScript • Python • C • SQL      │
+│ 🎨 Frontend    :: React • HTML • CSS • Tailwind CSS        |
+│ ⚙ Backend      :: Node.js • Express.js • Spring Boot      |
+│ 🗄 Database    :: MongoDB • MySQL                           |
+│ 🔧 Tools       :: Git • GitHub • VS Code • Postman          │
+├──────────────────────────────────────────────────────────────┤
+│ 🌸 Open Source :: GSSoC'26 Contributor                      |
+│ 🚀 Current     :: Building Full Stack Applications        |
+│ 📖 Learning    :: Spring Boot • Docker • System Design     |
+│ 🟢 Status      :: ONLINE                                    |
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<br clear="right"/>
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/cyberpunk.gif" width="340"/>
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="340"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -65,8 +80,6 @@
 ██████████████████████████████████ 100%
 
 ✔ Loading Java.................SUCCESS
-
-✔ Loading React................SUCCESS
 
 ✔ Loading Spring Boot..........SUCCESS
 
@@ -98,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="180"/>
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/cyberpunk.gif" width="180"/>
 
 ### 💚 `while(alive){ eat(); code(); learn(); repeat(); }`
 
@@ -129,15 +142,15 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css&theme=dark"/>
 
 ### ⚛ Frontend
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark"/>
 
 ### ⚙ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark"/>
 
 ### 🗄 Database
 
@@ -145,7 +158,7 @@
 
 ### ☁ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark"/>
 
 </div>
 
