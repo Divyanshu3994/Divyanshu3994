@@ -341,16 +341,6 @@ https://www.linkedin.com/in/divyanshu748/
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Divyanshu3994&theme=algolia&margin-w=15&margin-h=15&column=4&no-frame=true"/>
-
-</div>
-
----
-
 # 💻 Featured Projects
 
 <div align="center">
@@ -400,17 +390,6 @@ https://www.linkedin.com/in/divyanshu748/
 </a>
 
 </div>
-
----
-
-# 📌 Current Goals
-
-- 🚀 Master **Java Backend Development**
-- 🌱 Learn **Spring Boot & Microservices**
-- 💻 Build scalable Full Stack Applications
-- 🌸 Continue contributing to Open Source
-- 🏆 Crack Software Engineering Internships
-- ☁️ Learn Docker, AWS & System Design
 
 ---
 
